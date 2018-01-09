@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HoloDancer</UnityWSASolutionName>
+        <UnityWSASolutionDir>O:\Projects\HoloDancer\Builds\</UnityWSASolutionDir>
+        <UnityProjectDir>O:\Projects\HoloDancer\</UnityProjectDir>
+        <UnityWSAPlayerDir>E:\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
